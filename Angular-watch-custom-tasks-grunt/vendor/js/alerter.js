@@ -1,0 +1,1 @@
+alert("injected javascript from vendor side");
